@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "The Gaze of Naiwa",
-    "description": "A circular frosted-glass Naiwa avatar in the bottom-right corner that switches between idle and thinking expressions with the agent."
+    "description": "A circular frosted-glass Naiwa avatar in the top-right corner that switches between idle and thinking expressions with the agent."
   },
   "aria": {
     "idle": "Naiwa is idle",

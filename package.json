@@ -1,6 +1,6 @@
 {
   "name": "dsh-the-gaze-of-naiwa",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "private": true,
   "type": "module",
   "description": "The Gaze of Naiwa — a circular frosted-glass Naiwa avatar that follows the agent's thinking and idle states.",
